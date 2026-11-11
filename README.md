@@ -35,7 +35,7 @@ As novidades de cada versão estão em [CHANGELOG.md](CHANGELOG.md).
 
 ## Requisitos
 
-- Eclipse 2024-03 ou mais novo, com Java 17+ e o ADT instalado.
+- **Eclipse 2026-09 ou mais novo**, com o ADT instalado (o Java 21 já vem embutido no Eclipse).
 - Windows x64: nada além do plugin (Node.js e servidor embutidos).
 - Outras plataformas, ou para usar outra versão do servidor: `npm install -g @mcp-abap-adt/core`.
 - Claude Code instalado e logado (`claude --version`). Ele não vem com o plugin.

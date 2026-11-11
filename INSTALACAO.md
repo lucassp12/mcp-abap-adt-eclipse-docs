@@ -13,9 +13,9 @@ Claude Code.
 | Item | Versão / observação | Como conferir |
 |---|---|---|
 | Windows 10/11 (também roda em Linux/macOS) | — | — |
-| Eclipse IDE | 2024-03 ou mais novo | Help → About Eclipse IDE |
+| Eclipse IDE | **2026-09 ou mais novo** | Help → About Eclipse IDE |
 | ABAP Development Tools (ADT) | Instalado e **funcionando** antes do plugin | Abrir um projeto ABAP |
-| Java do Eclipse | 17 ou superior (Eclipse 2025+ já usa 21) | `java -version` |
+| Java do Eclipse | 21 ou superior (já vem embutido no Eclipse 2026-09) | Help → About Eclipse IDE → Installation Details → Configuration (`java.version`) |
 | Node.js e mcp-abap-adt | **Não precisa no Windows x64**: vêm embutidos no plugin (1.2+). Em outras plataformas: Node.js LTS + `npm install -g @mcp-abap-adt/core` | Configurações da view |
 | Claude Code | Instalado e logado (necessário também para o botão ">_ Abrir Claude Code") | `claude --version` |
 
